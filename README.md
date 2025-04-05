@@ -2,6 +2,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 # ACIRABA FRONT END
 
+# Kenapa tidak jadi 1 saja di Codeigniter, Malah CI + Node JS
+Karena dulu ingin belajar nodejs + express dan ingin belajar komunikasi data dengan API, ya sudah sekalian dapat project + dibayar + belajar + udah dapat izin dulu di masing masing client, clientnya cuma bilang. Ya udah mas yang penting kenceng, benar, dan akurat data saya
 # Kok Tidak Ada Mode Deploy Seperti Docker
 Mohon maaf, karena ini project lama sekitar 1 2 tahun lalu dan saya belum belajar docker jadi tidak saya distkan dalam bentuk docker atau sejenisnya. Tidak apalah yang penting bisa digunakan
 # Apa sih ACIRABA itu ?
@@ -31,10 +33,10 @@ Aciraba adalah sistem Integrasi dengan Sistem Eksternal: Beberapa aplikasi POS b
 ## Installation
 Berikut adalah cara pemasangan / install webservice untuk aciraba pada perangkat anda
 1. Usahakan anda pernah menginstall CODEIGNITER 4 sampai HELLO WORLD
-2. Download project ini atau clone project ini kedalam perangkat anda
+2. Download project ini atau clone project ini kedalam perangkat anda. bebas mau via HTTPS, SSH atau Unduh Manual deh ini contohnya via clone HTTPS
 ```bash
-git clone https://github.com/Meteor95/aciraba_website.git
-cd aciraba_website
+git clone https://github.com/Meteor95/aciraba_siak_os.git
+cd ACIRABA/aciraba_websit
 ```
 3. Pasang semua komponen yang dibutuhkan untuk menjalankan ACIRABA dengan cara
 ```bash
@@ -133,10 +135,10 @@ EMAIL_PASSWORD=
 EMAIL_DARI =
 ```
 1. Install nodejs pada perangkat anda dan pilih versi node js dengan versi 16 keatas
-2. Download project ini atau clone project ini kedalam perangkat anda
+2. Download project ini atau clone project ini kedalam perangkat anda, kalau sudah melakukan pada step FRONT END bisa diskip sih yang clone nya
 ```bash
-  git clone https://github.com/Meteor95/aciraba_server.git
-  cd aciraba_server
+  git clone https://github.com/Meteor95/aciraba_siak_os.git
+  cd ACIRABA/aciraba_server
 ```
 3. Pasang / install komponen yang dibutuhkan aciraba server dengan perintah, tunggu hingga selesai
 ```bash
@@ -156,7 +158,7 @@ Tunggu hingga proses seperti dibawah ini. Jika muncul dibawah ini maka server be
 [nodemon] watching path(s): *.*
 [nodemon] watching extensions: js,mjs,json
 [nodemon] starting `node apiaciraba.js`
-Aciraba Server Berjalan 19/6/2023 14.40.51
+Aciraba Server Berjalan 05/4/2025 08.40.51
 Listen Mysql : ALL
 ```
 atau anda bisa ubah sendiri sesuai dengan keinginan anda. buka file package.json
@@ -176,3 +178,13 @@ Proyek ini dilisensikan berdasarkan syarat-syarat lisensi **MIT**.
 
 ## Dokumentasi [maintenance]
 Untuk dokumentasi untuk versi ini tidak ada, karena sekarang lagi kami re-write kedalam bahasa pemograman dan kerangka kerja lain. Jadi ini project BUG FIXING. Jika ada request tapi minor boleh lah JAPRI
+
+## BIG THANKS FOR THEM
+1. Kotak Cantik Magelang
+2. Toko Oli Magelang Sanjaya
+3. Toko Sepatu QQ Magelang
+4. Toko Grosir Bara
+5. Olivia Baby Shop Kota Malang
+6. TEFA MART SMK NEGERI 1 Malang
+Yang mau jadi sponsor dulu, belajar sambil dibayar
+Makasih juga yang lainnya seperti toko klontong kecil kecil, warung kopi langganan saya yang menggunakan Aciraba sebagai ujicoba aplikasi HAHAHA
