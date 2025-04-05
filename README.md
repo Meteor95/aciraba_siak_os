@@ -186,5 +186,6 @@ Untuk dokumentasi untuk versi ini tidak ada, karena sekarang lagi kami re-write 
 4. Toko Grosir Bara
 5. Olivia Baby Shop Kota Malang
 6. TEFA MART SMK NEGERI 1 Malang
+<br>
 Yang mau jadi sponsor dulu, belajar sambil dibayar
 Makasih juga yang lainnya seperti toko klontong kecil kecil, warung kopi langganan saya yang menggunakan Aciraba sebagai ujicoba aplikasi HAHAHA
