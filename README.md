@@ -1,4 +1,4 @@
-![Logo](https://aciraba.erayadigital.co.id/images/login/logonya.png)
+![Logo](https://cdn.erayadigital.co.id/images/logo_aciraba.png)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 # ACIRABA FRONT END
 
