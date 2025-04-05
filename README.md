@@ -56,7 +56,9 @@ Press Control-C to stop.
 5. Violaaa..... jangan khawatir gambar hanya editan, aslinya gak lebai ada kuning kuningnya kok biar sangar aja dan bikin penasaran<br>
 ![LOGIN](https://cdn.erayadigital.co.id/images/login_dark_mode_light_mode.jpg)
 ## DEMO ??
-Kalau mau DEMO nanti saya upate disini atau di threads. Soalnya gak ada space kosong. silahkan coba dilocal aja ya<br>
+Yang ingin melihat demonstrasinya karena penasaran cek url berikut ya
+Demonstrasi : <a target="_BLANK" href="https://aciraba.erayadigital.co.id"> Klinik Disini Teman </a>
+Langsung login saja atau <br>
 username : erayadigital<br>
 password : salam1jiwa<br>
 ## .env format
