@@ -51,10 +51,10 @@ CodeIgniter development server started on http://localhost:8080
 Press Control-C to stop.
 [Mon xxx xx xx:xx:xx 20xx] PHP 8.x.x Development Server (http://hostname:port) started
 ```
-5. Violaaa....<br>
-![LOGIN](https://aciraba.erayadigital.co.id/images/login_form.png)
+5. Violaaa..... jangan khawatir gambar hanya editan, aslinya gak lebai ada kuning kuningnya kok biar sangar aja dan bikin penasaran<br>
+![LOGIN](https://cdn.erayadigital.co.id/images/login_dark_mode_light_mode.jpg)
 ## DEMO ??
-[DEMO ACIRABA](https://aciraba.erayadigital.co.id)<br>
+Kalau mau DEMO nanti saya upate disini atau di threads. Soalnya gak ada space kosong. silahkan coba dilocal aja ya<br>
 username : erayadigital<br>
 password : salam1jiwa<br>
 ## .env format
