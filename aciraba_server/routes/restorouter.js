@@ -1,0 +1,20 @@
+const express = require("express")
+const authorize = require('../middleware/authorize')
+const router = express.Router()
+const restoController = require("../controller/restoController")
+/*transaksi kasir*/
+router.post("/ajaxpanggilmeja",restoController.ajaxpanggilmeja)
+router.post("/ajaxpanggillantai",restoController.ajaxpanggillantai)
+router.post("/ajaxdetailpesanan",restoController.ajaxdetailpesanan)
+router.post("/ajaxfullcalendarevent",restoController.ajaxfullcalendarevent)
+router.post("/updatestatuspemesanan",restoController.updatestatuspemesanan)
+router.post("/hapusinformasimeja",restoController.hapusinformasimeja)
+router.post("/simpaninformasimeja",restoController.simpaninformasimeja)
+router.post("/panggildetailmakanan",restoController.panggildetailmakanan)
+router.post("/loadkds",restoController.loadkds)
+router.post("/sundulpesanan",restoController.sundulpesanan)
+router.post("/ubahstatuspesanan",restoController.ubahstatuspesanan)
+router.post("/tandaisemuaselesai",restoController.tandaisemuaselesai)
+router.post("/filterbystatuspesanan",restoController.filterbystatuspesanan)
+
+module.exports = router

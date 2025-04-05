@@ -1,0 +1,16 @@
+const express = require("express")
+const authorize = require('../middleware/authorize')
+const router = express.Router()
+const laporanController = require("../controller/laporanController")
+/*transaksi kasir*/
+router.post("/formatlaporanpenjualan",laporanController.formatlaporanpenjualan)
+router.post("/formatlaporanmaster",laporanController.formatlaporanmaster)
+router.post("/formatlaporanmastersup",laporanController.formatlaporanmastersup)
+router.post("/formatlaporanmastermember",laporanController.formatlaporanmastermember)
+router.post("/formatlaporandetaimembertabel",laporanController.formatlaporandetaimembertabel)
+router.post("/formatlaporanreturpenjualan",laporanController.formatlaporanreturpenjualan)
+router.post("/formatlaporanpembelian",laporanController.formatlaporanpembelian)
+router.post("/formatlaporanreturpembelian",laporanController.formatlaporanreturpembelian)
+router.post("/formatlaporanhutang",laporanController.formatlaporanhutang)
+router.post("/formatlaporanpiutang",laporanController.formatlaporanpiutang)
+module.exports = router

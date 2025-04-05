@@ -1,0 +1,156 @@
+body 
+{
+color: #095479;
+background: #f3f3f3;
+font-size: 12px;
+}
+	 
+a {color: #6389a1;}
+	 
+.header_cotainer
+{
+width: 100%;
+height: 70px;
+display: block;
+background: #f3f3f3; /* for non-css3 browsers */
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f3f3f3', endColorstr='#dfe0db'); /* for IE */
+background: -webkit-gradient(linear, left top, left bottom, from(#f3f3f3), to(#dfe0db)); /* for webkit browsers */
+background: -moz-linear-gradient(top,  #f3f3f3,  #dfe0db); /* for firefox 3.6+ */
+overflow: hidden;
+}
+	 
+.content_container 
+{
+width: 100%;
+height: 600px;
+display: block;
+background:#80a9c5;
+background:#80a9c5 url(../images/pattern_bg.png) left top repeat;
+}
+.content_bg
+{
+width: 960px;
+height: 600px;
+display: block;
+background: -moz-radial-gradient(center, circle cover, rgba(244,244,244,0.5) 0%, rgba(244,244,244,0) 60%); /* FF3.6+ */
+background: -webkit-gradient(radial, center center, 0px, center center, 50%, color-stop(0%,rgba(244,244,244,0.5)), color-stop(100%,rgba(244,244,244,0))); /* Chrome,Safari4+ */
+background: -webkit-radial-gradient(center, circle cover, rgba(244,244,244,0.5) 0%,rgba(244,244,244,0) 60%); /* Chrome10+,Safari5.1+ */
+background: -o-radial-gradient(center, circle cover, rgba(244,244,244,0.5) 0%,rgba(244,244,244,0) 60%); /* Opera 12+ */
+background: -ms-radial-gradient(center, circle cover, rgba(244,244,244,0.5) 0%,rgba(244,244,244,0) 60%); /* IE10+ */
+background: radial-gradient(center, circle cover, rgba(244,244,244,0.5) 0%,rgba(244,244,244,0) 60%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99f4f4f4', endColorstr='#00f4f4f4',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
+}
+.content_bg2
+{
+width: 960px;
+height:100%;
+display: block;
+background: url(../images/rocket.png) top right no-repeat;
+}
+	 
+.footer_container {
+width: 100%;
+height:80px;
+display: block;
+overflow: hidden;
+color: #bebebe;
+/*Gradient BG*/
+background: #f3f3f3; /* for non-css3 browsers */
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfe0db', endColorstr='#f3f3f3'); /* for IE */
+background: -webkit-gradient(linear, left top, left bottom, from(#dfe0db), to(#f3f3f3)); /* for webkit browsers */
+background: -moz-linear-gradient(top,  #dfe0db,  #f3f3f3); /* for firefox 3.6+ */
+}
+/*========================================================================================================*/
+.grid_5 p
+{
+color:#095479;
+font: bold 34px/37px verdana, sans-serif;
+text-align:left;
+height:50px;
+padding-left:20px;
+padding-top: 10px;
+}
+.footer_container p
+{
+color:#095479;
+font: bold 14px/20px verdana, sans-serif;
+text-align:center;
+}
+p.slogan
+{
+color:#095479;
+font: bold 20px/20px verdana, sans-serif;
+text-align:left;
+}
+.logo
+{
+margin-top:10px;
+padding-left:10px;
+}
+.grid_7 p
+{
+color:#095479;
+font: bold 28px/30px verdana, sans-serif;
+text-align:left;
+}
+.grid_7 img{margin-right:10px;margin-top:30px;}
+/*============ TIMER ==================*/
+.timer
+{
+width:100%;
+height:100px;
+display: block;
+}
+p#time{
+color:#5a839d;
+font-size:40px;
+line-height:25px;
+text-align:left;
+margin-top:10px;
+}
+p#time span{
+display:inline;
+color:#5a839d;
+font-size:22px;
+text-align:center;
+}
+.timer_other {display:inline;width:120px;}
+
+/*============ SUBSCRIPTION FORM ==================*/
+#contact-area {
+width: 450px;
+height:56px;
+margin-top: 5px;
+background:#53809c;
+border-radius: 3px;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+}
+
+#contact-area input{
+color:#53809c;
+padding: 5px;
+width: 300px;
+height:22px;
+margin: 8px 0px 10px 10px;
+border: 2px solid #d3d1d1;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+background:#ddd;
+font:bold 14px verdana, sans-serif;
+}
+#contact-area input:focus {
+border: 2px solid #2b81d8;
+}
+
+#contact-area input.submit-button {
+color:#53809c;
+width: 100px;
+height:36px;
+/*Gradient BG*/
+background: #e6e2e2; /* for non-css3 browsers */
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e6e2e2', endColorstr='#c0c0c0'); /* for IE */
+background: -webkit-gradient(linear, left top, left bottom, from(#e6e2e2), to(#c0c0c0)); /* for webkit browsers */
+background: -moz-linear-gradient(top,  #e6e2e2,  #c0c0c0); /* for firefox 3.6+ */
+}
