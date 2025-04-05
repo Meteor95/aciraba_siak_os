@@ -1,7 +1,7 @@
 ![Logo](https://cdn.erayadigital.co.id/images/logo_aciraba.png)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 # ACIRABA FRONT END
-
+![Spoiler](https://cdn.erayadigital.co.id/images/Animation.gif)
 # Kenapa tidak jadi 1 saja di Codeigniter, Malah CI + Node JS
 Karena dulu ingin belajar nodejs + express dan ingin belajar komunikasi data dengan API, ya sudah sekalian dapat project + dibayar + belajar + udah dapat izin dulu di masing masing client, clientnya cuma bilang. Ya udah mas yang penting kenceng, benar, dan akurat data saya
 # Kok Tidak Ada Mode Deploy Seperti Docker
@@ -178,6 +178,10 @@ Proyek ini dilisensikan berdasarkan syarat-syarat lisensi **MIT**.
 
 ## Dokumentasi [maintenance]
 Untuk dokumentasi untuk versi ini tidak ada, karena sekarang lagi kami re-write kedalam bahasa pemograman dan kerangka kerja lain. Jadi ini project BUG FIXING. Jika ada request tapi minor boleh lah JAPRI
+
+## DATABASE STRUKTUR DATA + DUMMY
+Kok gak pakai migration sih, ya gpp wes soalnya solo developer juga yang penting bisa jalan kan. nanti kamu bikin migration sendiri ya. Untuk databasenya ada 2 Import saja semuanya silahkan unduh disini<br>
+<a href="https://cdn.erayadigital.co.id/public_files/database_aciraba_dummy.zip">Unduh Database</a>
 
 ## BIG THANKS FOR THEM
 1. Kotak Cantik Magelang
